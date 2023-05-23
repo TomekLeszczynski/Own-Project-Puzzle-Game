@@ -1,6 +1,6 @@
 # Own project - simple puzzle game
 
-![Simple puzzle game screen](/Screenshot_2.jpg)
+![Simple puzzle game screen](/Puzzle%20flow.gif)
 
 # General Info
 

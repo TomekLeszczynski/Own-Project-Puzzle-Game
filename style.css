@@ -5,7 +5,7 @@
 }
 :root {
 	--primary-color: #db0000;
-	--secondary-color: #fff;
+	--secondary-color: white;
 }
 body {
 	display: flex;
